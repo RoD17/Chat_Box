@@ -1,0 +1,8 @@
+C:\Users\rodne\Documents\Visual Studio 2017\Projects\Chat_Box\Chat_Box\bin\Debug\netcoreapp2.0\Chat_Box.deps.json
+C:\Users\rodne\Documents\Visual Studio 2017\Projects\Chat_Box\Chat_Box\bin\Debug\netcoreapp2.0\Chat_Box.runtimeconfig.json
+C:\Users\rodne\Documents\Visual Studio 2017\Projects\Chat_Box\Chat_Box\bin\Debug\netcoreapp2.0\Chat_Box.runtimeconfig.dev.json
+C:\Users\rodne\Documents\Visual Studio 2017\Projects\Chat_Box\Chat_Box\bin\Debug\netcoreapp2.0\Chat_Box.dll
+C:\Users\rodne\Documents\Visual Studio 2017\Projects\Chat_Box\Chat_Box\obj\Debug\netcoreapp2.0\Chat_Box.csprojResolveAssemblyReference.cache
+C:\Users\rodne\Documents\Visual Studio 2017\Projects\Chat_Box\Chat_Box\obj\Debug\netcoreapp2.0\Chat_Box.csproj.CoreCompileInputs.cache
+C:\Users\rodne\Documents\Visual Studio 2017\Projects\Chat_Box\Chat_Box\obj\Debug\netcoreapp2.0\Chat_Box.AssemblyInfoInputs.cache
+C:\Users\rodne\Documents\Visual Studio 2017\Projects\Chat_Box\Chat_Box\obj\Debug\netcoreapp2.0\Chat_Box.AssemblyInfo.cs
